@@ -12,7 +12,7 @@ public class Main {
         list.add(50);
         System.out.println(list.toString());
         System.out.println(list.get(2));
-        list.set(2,100);
+        list.set(2, 100);
         System.out.println(list.toString());
         System.out.println(list.size());
     }
